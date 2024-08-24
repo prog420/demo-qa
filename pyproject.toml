@@ -1,0 +1,13 @@
+[tool.pytest.ini_options]
+addopts = [
+    "--strict-markers",
+    "--strict-config",
+    "--alluredir=allure-results",
+    "-vs",
+    "--headless",
+    "--ignore-passed-test-attachments",
+    "--runxfail"
+]
+markers = [
+    "wip", # Work In Progress (test is not finished)
+]
