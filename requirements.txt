@@ -1,0 +1,7 @@
+assertpy~=1.1
+allure-pytest~=2.13.5
+faker~=27.0.0
+pytest~=8.3.2
+pytest-xdist~=3.6.1
+selenium~=4.23.1
+webdriver-manager~=4.0.2
