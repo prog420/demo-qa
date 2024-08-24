@@ -1,0 +1,1 @@
+[{"uid":"3448d64f1caf28fd","name":"Submitting form with valid data","time":{"start":1724505693886,"stop":1724505699961,"duration":6075},"status":"passed","severity":"normal"},{"uid":"11916bc0de7cdb95","name":"[xfail] Submitting form with valid data","time":{"start":1724505700739,"stop":1724505705424,"duration":4685},"status":"failed","severity":"normal"}]
